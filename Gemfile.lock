@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/kenjitayama/danger-bloaty.git
-  revision: 731fd296112a2444b86c8451a0645bc0ccfe0914
+  revision: b2e8c08dbe5d9cd13b25846bb39435239adebac7
   specs:
     danger-bloaty (0.0.1)
       danger-plugin-api (~> 1.0)
